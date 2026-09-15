@@ -13,6 +13,8 @@ A lightweight console-based application written in C++ to calculate weighted Gra
 
 Create & Develope By Me:  [M.SH.420]  On 2022 C++
 
+Help ID: Telegram: @AI172
+
 ## Usage
 1. Compile the code:
 ```bash
