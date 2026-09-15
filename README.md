@@ -1,4 +1,6 @@
 # Weighted-GPA-Calculator-CPP
+If you find this project useful, please consider giving it a star to show your support! ⭐⭐⭐ Password🫆exe : M.SH.420
+
 2022 - C++ console application for calculating weighted GPA. Features dynamic grade and unit editing, allowing you to easily adjust inputs and recalculate your results on the fly
 
 ## Features
