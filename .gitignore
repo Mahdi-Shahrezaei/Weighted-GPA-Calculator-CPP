@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
